@@ -1,1 +1,1 @@
-# hello-world
+# Plant biosynthetic pathway discovery
